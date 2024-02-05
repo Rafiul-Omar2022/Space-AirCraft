@@ -18,7 +18,7 @@ A Space aircraft game built by Java Swing, with OOP
 
 ## Project Description
 
-To run this project, you will need to exicute copy the src files to your local java project.
-Running the game by: Main class 
+To run this project, you must execute and copy the src files to your local java project.
+Running the game by Main class 
 
 
